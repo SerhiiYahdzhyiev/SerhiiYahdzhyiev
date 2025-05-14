@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @SerhiiYahdzhyiev
-- 👀 I’m interested in Fullstack Web Development and Music
-- 🌱 I’m currently learning Game Dev with Lua and Javascript/Typescript
 - 📫 How to reach me: syahdzhyiev@gmail.com
 
 <!---
